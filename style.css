@@ -1,0 +1,32 @@
+.square {
+  width: 100px;
+  height: 100px;
+  margin-right: 10px;
+  border-radius: 2px;
+}
+/* adding style to form */
+.display-4 {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.form {
+  max-width: 500px;
+  padding: 10px 20px;
+  background: #f4f7f8;
+  margin: 10px auto;
+  padding: 20px;
+  background: #f4f7f8;
+  border-radius: 8px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#recentImg {
+  /* making small size */
+  width: 20%;
+  height: 20%;
+  border-radius: 2px;
+}
